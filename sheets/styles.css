@@ -1,0 +1,101 @@
+body {
+
+	background-color: #f0f5f5
+	color: #13201a;
+	font-family: arial;
+}
+
+a:hover {
+	color: #00ff00;
+}
+
+a:visited {
+	color: #006600;
+}
+
+.masthead {
+	
+	background-image: url('http://i1044.photobucket.com/albums/b448/ageddes/Code%20Practice/Background-pines_zpshpejwpma.jpeg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 4em 0;
+}
+
+.masthead-intro {
+	
+	text-align: center;
+	margin-bottom: 0.1em;
+	font-size: 2em;
+	font-family: Arial;
+	color: white;
+}
+
+.masthead-heading {
+
+	text-align: center;
+	margin-top: -0.2em;
+	font-size: 5em;
+	font-family: Arial;
+	color: white;
+}
+
+.winners,
+.mostgreens,
+.mostreds
+{
+	max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+}
+
+.green {
+	color: green;
+}
+
+.red {
+	color: red;
+}
+
+.footer,
+.sharelinks {
+	text-align: center;
+}
+
+.footer {
+	background-color: #003300;
+	color: white;
+	margin-top: 5em;
+	padding: 2em 0;
+	font-size: 2em;
+}
+
+.sharelinks > li {
+	display: inline-block;
+	padding: .2em;
+	margin-right: 1.5em;
+}
+
+.sharepics {
+	height: auto; 
+    width: auto; 
+    max-width: 65px; 
+    max-height: 65px;
+}
+
+.history,
+.vegasodds,
+.trollies {
+	display: inline-block;
+	text-align: center;
+	border: 1em;
+	background-color: #6C6F70
+	height: 75px;
+	width: 150px;
+}
+
+.nav > a {
+	
+}
+
+
